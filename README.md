@@ -1,7 +1,7 @@
 # Learning-materials-for-robotics-engineers
 机器人工程领域推荐的一些学习资料(妄想试图全栈....)
 
-#### 数学基础  
+### 数学基础  
 
 
 ### 编程基础
