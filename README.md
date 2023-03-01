@@ -11,7 +11,8 @@ B站 码农论坛《系统化学习C++》
 B站  赵虚左《ROS理论与实践》  
 B站 赵虚左《ROS2理论与实践核心篇目》  
 【linux】
-
+【cmake】
+《CMake Practice》
 【网络编程】  
 
 【安卓】  
