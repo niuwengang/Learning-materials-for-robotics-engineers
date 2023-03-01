@@ -5,23 +5,17 @@
 
 
 ### 编程基础
-【c++】     
-B站 码农论坛《系统化学习C++》  
-【ROS】    
-B站  赵虚左《ROS理论与实践》  
-B站 赵虚左《ROS2理论与实践核心篇目》  
-【linux】
-【cmake】
-《CMake Practice》
-【网络编程】  
+| 技术栈 | 推荐教程 | 个人感受 | 
+| :----: | :----: | :----: |
+| c++ | [B站 码农论坛《系统化学习c++》](https://www.bilibili.com/video/BV1o8411x7K3/?spm_id_from=333.337.search-card.all.click&vd_source=b86740d9f2b244ac781ad5f60dd8e818)   |  |  
+| ROS1 | [B站 赵虚左《ROS理论与实践》](https://www.bilibili.com/video/BV1Ub4y1a7PH/?spm_id_from=333.999.0.0&vd_source=b86740d9f2b244ac781ad5f60dd8e818)   |  |  
 
-【安卓】  
 
 ### 机械&电控
 
 
 ### 定位
-深蓝学院 《视觉SLAM理论与实践》  
+
 ### 感知  
 
 ### 规划
